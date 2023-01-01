@@ -15,7 +15,7 @@
     "@open-wa/wa-decrypt": "^3.0.1",
     "@vitalets/google-translate-api": "^7.0.0",
     "acrcloud": "^1.4.0",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.10",
     "correios-brasil": "^2.2.2",
